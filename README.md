@@ -182,3 +182,9 @@ positions = {
 - The `draw_network_box` function is used to draw a box around a group of nodes, indicating a network segment.
 
 This README provides a basic guide for users to understand how to run the script and make modifications. Adjust the content as necessary to match the specific functionalities and configurations in your script.
+
+### Author
+
+[rgerjeki](https://github.com/rgerjeki)
+
+Feel free to reach out if you have any questions or feedback!
