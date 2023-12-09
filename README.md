@@ -2,6 +2,8 @@
 
 This Python script generates a network diagram using Matplotlib and NetworkX. It is designed to be customizable and extendable for various network architectures.
 
+<a href="https://ibb.co/Nskf1M0"><img src="https://i.ibb.co/VthbHsF/network-Diagram.png" alt="network-Diagram" border="0" /></a>
+
 ## How to Run the Script
 
 To run the script, you will need Python installed on your system along with the `matplotlib` and `networkx` libraries. If you don't have these libraries installed, you can install them using pip:
