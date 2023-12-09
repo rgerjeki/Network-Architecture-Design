@@ -8,18 +8,18 @@ G = nx.Graph()
 
 # Nodes and their positions
 nodes = {
-    "Host 1": "/Users/rgerjekiU/Downloads/cybv326_finalProject/imgs/desktop.png",
-    "Host 2": "/Users/rgerjekiU/Downloads/cybv326_finalProject/imgs/desktop.png",
-    "Host 3": "/Users/rgerjekiU/Downloads/cybv326_finalProject/imgs/desktop.png",
-    "Host 4": "/Users/rgerjekiU/Downloads/cybv326_finalProject/imgs/desktop.png",
-    "Host 5": "/Users/rgerjekiU/Downloads/cybv326_finalProject/imgs/desktop.png",
-    "Switch 1": "/Users/rgerjekiU/Downloads/cybv326_finalProject/imgs/switch.png",
-    "Switch 2": "/Users/rgerjekiU/Downloads/cybv326_finalProject/imgs/switch.png",
-    "Router": "/Users/rgerjekiU/Downloads/cybv326_finalProject/imgs/router.png",
-    "Firewall": "/Users/rgerjekiU/Downloads/cybv326_finalProject/imgs/firewall.png",
-    "Server 1": "/Users/rgerjekiU/Downloads/cybv326_finalProject/imgs/server.png",
-    "Server 2": "/Users/rgerjekiU/Downloads/cybv326_finalProject/imgs/server.png",
-    "Internet": "/Users/rgerjekiU/Downloads/cybv326_finalProject/imgs/cloud.png"
+    "Host 1": "Path-to-directory/imgs/desktop.png",
+    "Host 2": "Path-to-directory/imgs/desktop.png",
+    "Host 3": "Path-to-directory/imgs/desktop.png",
+    "Host 4": "Path-to-directory/imgs/desktop.png",
+    "Host 5": "Path-to-directory/imgs/desktop.png",
+    "Switch 1": "Path-to-directory/imgs/switch.png",
+    "Switch 2": "Path-to-directory/imgs/switch.png",
+    "Router": "Path-to-directory/imgs/router.png",
+    "Firewall": "Path-to-directory/imgs/firewall.png",
+    "Server 1": "Path-to-directory/imgs/server.png",
+    "Server 2": "Path-to-directory/imgs/server.png",
+    "Internet": "Path-to-directory/imgs/cloud.png"
 }
 
 # Adding edges (connections between devices)
